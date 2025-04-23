@@ -1,0 +1,1 @@
+# resumo-lab-localizando-servicos-categoria
